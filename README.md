@@ -1,6 +1,5 @@
 # Shelly Pringle
-<p align="center">
-  <img src="my profile pic.jpg" >
+
 
 Collecting, analyzing, and visualizing data to make informed decisions
 

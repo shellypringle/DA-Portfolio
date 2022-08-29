@@ -8,14 +8,14 @@ Science Teacher turned Analyst! I have an MS in Biology and taught high school s
 
 ## Projects:
 ### Bellabeat project
-Cleaned and analyzed data from 30 users wearing FitBit devices
-Made recommendations for marketing strategy
+Cleaned and analyzed data from 30 users wearing FitBit devices.
+Made recommendations for marketing strategy.
 
 [View the project here](https://github.com/shellypringle/Bellabeat-Project)
 
 ### COVID study 
-Analyzed current COVID related data
-Used SQL to organize data and Tableau to visualize
+Analyzed current COVID related data.
+Used SQL to organize data and Tableau to visualize.
 
 [View the project here](https://github.com/shellypringle/COVID-study) 
 

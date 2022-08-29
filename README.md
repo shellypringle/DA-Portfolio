@@ -1,5 +1,5 @@
 # Shelly Pringle
-![](my profile pic.jpg)
+![](https://github.com/shellypringle/Data-Analysis-Portfolio/blob/main/my%20profile%20pic.jpg?raw=true)
 
 Collecting, analyzing, and visualizing data to make informed decisions
 

@@ -18,4 +18,5 @@ Made recommendations for marketing strategy
 
 ### Bike Share analysis
 Analyze and visualize bike share data using R
+
 in progress...

@@ -1,5 +1,5 @@
 # Shelly Pringle
-![](https://github.com/shellypringle/Data-Analysis-Portfolio/blob/main/my%20profile%20pic.jpg?raw=true = 100x20)
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
 
 Collecting, analyzing, and visualizing data to make informed decisions
 

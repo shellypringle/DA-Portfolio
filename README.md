@@ -1,7 +1,7 @@
 # Shelly Pringle
 ![](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
 
-**Collecting, analyzing, and visualizing data to make informed decisions**
+**Harnessing the power of data to make informed decisions**
 
 ## About Me:
 Science Teacher turned Analyst! I have an MS in Biology and taught high school science for 13 years. Over the course of my career I have developed a love for all things data, and am currently seeking a role in which I can pursue this passion. Below are some sample projects I have worked on to hone my analytics skills:

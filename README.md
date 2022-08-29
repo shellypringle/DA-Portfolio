@@ -4,7 +4,7 @@
 **Collecting, analyzing, and visualizing data to make informed decisions**
 
 ## About Me:
-High school Science Teacher turned Analyst! I have a Master's Degree in Biology and over the course of my time as an educator and in graduate school I developed a love for all things data. Below are some sample projects I have worked on to hone my analytics skills:
+Science Teacher turned Analyst! I have an MS in Biology and taught high school science for 13 years. Over the course of my career I have developed a love for all things data, and am currently seeking a role in which I can pursue this passion. Below are some sample projects I have worked on to hone my analytics skills:
 
 ## Projects:
 ### COVID study 

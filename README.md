@@ -1,6 +1,7 @@
 # Shelly Pringle
-![Collecting, analyzing, and visualizing data to make informed decisions
-](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
+![](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
+
+**Collecting, analyzing, and visualizing data to make informed decisions**
 
 ## Projects:
 ### COVID study 

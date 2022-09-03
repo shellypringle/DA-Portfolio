@@ -19,7 +19,13 @@ Used SQL to organize data and Tableau to visualize.
 
 [View the project here](https://github.com/shellypringle/COVID-study) 
 
+
+### SQL project
+This is a project where exploratory analysis was done on a collection of tables
+for the fictitional company "Amazing Mart".
+
+[View the project here](https://github.com/shellypringle/SQL-projects/tree/main)
+
 ### Bike Share analysis
 Analyze and visualize bike share data using R
-
 in progress...

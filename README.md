@@ -21,10 +21,10 @@ Used SQL to organize data and Tableau to visualize.
 
 
 ### SQL project
-This is a project where exploratory analysis was done on a collection of tables
-for the fictitional company "Amazing Mart".
+These are projects where exploratory analysis was done on different databases, with the purpose of asking and answering questions with data.
+All analysis was performed in SQL (using PostgreSQL or BigQuery).
 
-[View the project here](https://github.com/shellypringle/SQL-projects/tree/main)
+[View the projects here](https://github.com/shellypringle/SQL-projects/tree/main)
 
 ### Bike Share analysis
 Analyze and visualize bike share data using R

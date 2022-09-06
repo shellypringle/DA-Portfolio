@@ -20,7 +20,7 @@ Used SQL to organize data and Tableau to visualize.
 [View the project here](https://github.com/shellypringle/COVID-study) 
 
 
-### SQL project
+### SQL projects
 These are projects where exploratory analysis was done on different databases, with the purpose of asking and answering questions with data.
 All analysis was performed in SQL (using PostgreSQL or BigQuery).
 

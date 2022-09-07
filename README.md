@@ -16,7 +16,7 @@ All analysis was performed in SQL (using PostgreSQL or BigQuery).
 ### Tableau projects
 These are projects where exploratory analysis and visualization was done via Tableau.
 
-[View the projects here] (https://github.com/shellypringle/Tableau-projects/blob/main/README.md)
+[View the projects here](https://github.com/shellypringle/Tableau-projects)
 
 ### Bellabeat project
 Here, I cleaned and analyzed data using a combination of Excel, SQL and Tableau.

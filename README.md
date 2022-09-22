@@ -32,5 +32,5 @@ I used SQL to organize data and Tableau to visualize.
 
 
 ### Bike Share analysis
-Analyze and visualize bike share data using R
+Analyze and visualize bike share data using Python
 in progress...

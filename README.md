@@ -15,17 +15,16 @@ All analysis was performed in SQL (using PostgreSQL or BigQuery).
 
 ### Tableau projects
 These are projects where exploratory analysis and visualization was done exclusively via Tableau. 
-To see more of my Tableau work, see the Bellabeat and Covid projects below.
 
 [View the projects here](https://github.com/shellypringle/Tableau-projects)
 
-### Bellabeat project
+### Bellabeat project (Excel, SQL, Tableau)
 Here, I cleaned and analyzed data using a combination of Excel, SQL and Tableau.
 A detail of the process and findings are included, in addition to marketing strategy recommendations.
 
 [View the project here](https://github.com/shellypringle/Bellabeat-Project)
 
-### COVID study 
+### COVID study (SQL, Tableau)
 Here I analyzed current COVID related data.
 I used SQL to organize data and Tableau to visualize.
 

@@ -14,7 +14,8 @@ All analysis was performed in SQL (using PostgreSQL or BigQuery).
 [View the projects here](https://github.com/shellypringle/SQL-projects/tree/main)
 
 ### Tableau projects
-These are projects where exploratory analysis and visualization was done via Tableau.
+These are projects where exploratory analysis and visualization was done exclusively via Tableau. 
+To see more of my Tableau work, see the Bellabeat and Covid projects below.
 
 [View the projects here](https://github.com/shellypringle/Tableau-projects)
 

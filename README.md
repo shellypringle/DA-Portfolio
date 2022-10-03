@@ -9,7 +9,7 @@ Science Teacher turned Analyst! I have an MS in Biology and was an educator for 
 ## Projects:
 ### SQL projects
 These are projects where exploratory analysis was done on different datasets, with the purpose of asking and answering questions with data.
-All analysis was performed in SQL (using PostgreSQL or BigQuery).
+All analysis was performed in SQL (using Microsoft SQL Server, PostgreSQL or BigQuery).
 
 [View the projects here](https://github.com/shellypringle/SQL-projects/tree/main)
 

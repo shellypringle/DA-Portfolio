@@ -1,7 +1,7 @@
 # Shelly Pringle
 ![](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
 
-**“That which is measured improves. That which is measured and reported improves exponentially.”
+**That which is measured improves. That which is measured and reported improves exponentially.
 
 — Karl Pearson**
 

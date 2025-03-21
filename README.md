@@ -6,7 +6,8 @@ That which is measured improves. That which is measured and reported improves ex
 — Karl Pearson
 
 ## About Me:
-Science Teacher turned Analyst! I have an MS in Biology and was an educator for 13 years. Over the course of my career I have developed a love for all things data, and am currently seeking a role in which I can pursue this passion. Below are some sample projects I have worked on to hone my analytics skills:
+Data Analyst working in long-term disaster recovery and disaster mitigation for the State of Texas. Former educator.
+Skilled in analytical tools (Excel, SQL, PowerBI, Tableau), information architecture, project management, training, and the distillation/communication of complex ideas to a diverse audience. Below are some sample projects I have worked on to hone my analytics skills:
 
 ## Projects:
 ### SQL projects

@@ -7,7 +7,7 @@ That which is measured improves. That which is measured and reported improves ex
 
 ## About Me:
 Data Analyst working in long-term disaster recovery and disaster mitigation for the State of Texas. Former educator.
-Skilled in analytical tools (Excel, SQL, PowerBI, Tableau), information architecture, project management, training, and the distillation/communication of complex ideas to a diverse audience. Below are some sample projects I have worked on to hone my analytics skills:
+Skilled in analytical tools (Excel, SQL, PowerBI, Tableau), information architecture, project management, training, and the distillation/communication of complex ideas to a diverse audience. Below are some sample projects I have worked on to hone my analytics skills.
 
 ## Projects:
 ### SQL projects
